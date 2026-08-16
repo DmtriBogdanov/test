@@ -8,6 +8,7 @@ function App() {
       <p>Lorem ipsum dolor.</p>
       <span>1</span>
       <span>2</span>
+      <span>3</span>
     </>
   )
 }
